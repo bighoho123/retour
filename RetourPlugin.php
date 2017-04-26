@@ -183,13 +183,7 @@ class RetourPlugin extends BasePlugin
         return 'https://github.com/nystudio107/retour/blob/master/README.md';
     }
 
-    /**
-     * @return string
-     */
-    public function getReleaseFeedUrl()
-    {
-        return 'https://raw.githubusercontent.com/nystudio107/retour/master/releases.json';
-    }
+
 
     /**
      * Returns the version number.
